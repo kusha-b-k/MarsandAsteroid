@@ -1,5 +1,6 @@
 # MarsandAstroid
 rotation of mars and an astroid in the galaxy
+developed by Kusha bk
 
 mars and an astroid rotation OUTPUT LOOKS LIKE below
 
