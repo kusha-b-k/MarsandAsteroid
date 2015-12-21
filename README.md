@@ -11,7 +11,7 @@ https://github.com/kusha-b-k/MarsandAstroid
 
 
 
-#screen shot
+#screenshot
 ![alt tag](https://github.com/kusha-b-k/MarsandAstroid/blob/master/marsrotation.gif)
 
 #Permited
