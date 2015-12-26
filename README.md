@@ -1,3 +1,12 @@
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Rotation of mars and an astroid in the galaxy ">
+<meta name="keywords" content="kushabk,kusha bk,kusha b k">
+<meta name="author" content="kusha bk">
+<meta http-equiv="refresh" content="30">
+</head>
+
+
 #MarsandAstroid
 Rotation of mars and an astroid in the galaxy
 developed by Kusha bk
