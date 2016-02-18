@@ -20,21 +20,21 @@ https://github.com/kusha-b-k/MarsandAstroid
 
 
 
-#screenshot
+#Screenshot
 ![alt tag](https://github.com/kusha-b-k/MarsandAstroid/blob/master/marsrotation.gif)
 
 #Permited
-commercial-use - This software and derivatives may be used for commercial purposes.
+      commercial-use - This software and derivatives may be used for commercial purposes.
 
-modifications - This software may be modified.
+      modifications - This software may be modified.
 
-distribution - You may distribute this software.
+      distribution - You may distribute this software.
 
-sublicense - You may grant a sublicense to modify and distribute this software to third parties not included in the license.
+      sublicense - You may grant a sublicense to modify and distribute this software to third parties not included in the          license.
 
-private-use - You may use and modify the software without distributing it.
+      private-use - You may use and modify the software without distributing it.
 
-patent-use - This license provides an express grant of patent rights from the contributor to the recipient.
+      patent-use - This license provides an express grant of patent rights from the contributor to the recipient.
 
 
 
