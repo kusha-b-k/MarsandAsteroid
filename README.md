@@ -7,8 +7,8 @@
 </head>
 
 
-#MarsandAstroid
-Rotation of mars and an astroid in the galaxy
+#MarsandAsteroid
+Rotation of mars and an asteroid in the galaxy
 developed by Kusha bk
 
 
